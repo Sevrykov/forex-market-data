@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06 00:59:52",
+  "generated_at_utc": "2026-10-06 01:16:29",
   "data_status": "OK",
   "pair_count": 7,
   "market_hours_filter": "Standard Forex weekly session: Sunday 17:00 America/New_York to Friday 17:00 America/New_York",
@@ -9,38 +9,24 @@
     "EUR/USD": {
       "symbol": "EUR/USD",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:28",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 1.12171,
+      "latest_completed_m15_close": 1.12269,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 1.12364,
-          "high": 1.12384,
-          "low": 1.12352,
-          "close": 1.12355
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 1.12355,
-          "high": 1.12365,
-          "low": 1.12341,
-          "close": 1.12345
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 1.12346,
@@ -1370,16 +1356,23 @@
           "high": 1.12172,
           "low": 1.12148,
           "close": 1.12171
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 1.12169,
+          "high": 1.12214,
+          "low": 1.12166,
+          "close": 1.12209
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 1.12202,
+          "high": 1.12274,
+          "low": 1.12202,
+          "close": 1.12269
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 1.1371,
-          "high": 1.13711,
-          "low": 1.1363,
-          "close": 1.13668
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 1.13668,
@@ -2212,6 +2205,13 @@
           "high": 1.12221,
           "low": 1.12167,
           "close": 1.12169
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 1.12174,
+          "high": 1.12214,
+          "low": 1.12136,
+          "close": 1.12209
         }
       ],
       "last_h4": [
@@ -2640,38 +2640,24 @@
     "GBP/USD": {
       "symbol": "GBP/USD",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:28",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 1.32205,
+      "latest_completed_m15_close": 1.32266,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 1.31882,
-          "high": 1.31924,
-          "low": 1.31871,
-          "close": 1.31886
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 1.31884,
-          "high": 1.31888,
-          "low": 1.31839,
-          "close": 1.31855
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 1.31857,
@@ -4001,16 +3987,23 @@
           "high": 1.32206,
           "low": 1.32171,
           "close": 1.32205
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 1.32203,
+          "high": 1.32223,
+          "low": 1.32197,
+          "close": 1.32219
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 1.32213,
+          "high": 1.32287,
+          "low": 1.32213,
+          "close": 1.32266
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 1.32539,
-          "high": 1.32542,
-          "low": 1.32435,
-          "close": 1.3247
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 1.32473,
@@ -4843,6 +4836,13 @@
           "high": 1.32248,
           "low": 1.32188,
           "close": 1.32188
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 1.32189,
+          "high": 1.32223,
+          "low": 1.32163,
+          "close": 1.32219
         }
       ],
       "last_h4": [
@@ -5271,38 +5271,24 @@
     "USD/JPY": {
       "symbol": "USD/JPY",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:28",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 157.88128,
+      "latest_completed_m15_close": 157.873,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 158.06515,
-          "high": 158.14518,
-          "low": 158.01019,
-          "close": 158.13525
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 158.12003,
-          "high": 158.2016,
-          "low": 158.07155,
-          "close": 158.16
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 158.15713,
@@ -6632,16 +6618,23 @@
           "high": 157.93713,
           "low": 157.87977,
           "close": 157.88128
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 157.88325,
+          "high": 157.93285,
+          "low": 157.84321,
+          "close": 157.88517
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 157.89045,
+          "high": 157.95504,
+          "low": 157.78307,
+          "close": 157.873
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 157.3661,
-          "high": 157.50218,
-          "low": 157.34504,
-          "close": 157.3502
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 157.35647,
@@ -7474,6 +7467,13 @@
           "high": 157.97819,
           "low": 157.88085,
           "close": 157.9752
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 157.96961,
+          "high": 157.97228,
+          "low": 157.83131,
+          "close": 157.88517
         }
       ],
       "last_h4": [
@@ -7902,38 +7902,24 @@
     "USD/CHF": {
       "symbol": "USD/CHF",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:28",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 0.83127,
+      "latest_completed_m15_close": 0.83071,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 0.83115,
-          "high": 0.83157,
-          "low": 0.83109,
-          "close": 0.83138
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 0.83145,
-          "high": 0.8321,
-          "low": 0.83145,
-          "close": 0.83191
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 0.83188,
@@ -9263,16 +9249,23 @@
           "high": 0.83176,
           "low": 0.83126,
           "close": 0.83127
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 0.83128,
+          "high": 0.83129,
+          "low": 0.83114,
+          "close": 0.83115
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 0.83116,
+          "high": 0.8314,
+          "low": 0.83066,
+          "close": 0.83071
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 0.83189,
-          "high": 0.8327,
-          "low": 0.83188,
-          "close": 0.83237
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 0.83241,
@@ -10105,6 +10098,13 @@
           "high": 0.83143,
           "low": 0.83083,
           "close": 0.83136
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 0.83137,
+          "high": 0.8318,
+          "low": 0.83114,
+          "close": 0.83115
         }
       ],
       "last_h4": [
@@ -10533,38 +10533,24 @@
     "AUD/USD": {
       "symbol": "AUD/USD",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:28",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 0.69663,
+      "latest_completed_m15_close": 0.69701,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 0.6918,
-          "high": 0.69201,
-          "low": 0.69158,
-          "close": 0.69199
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 0.69195,
-          "high": 0.69196,
-          "low": 0.69157,
-          "close": 0.69166
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 0.69167,
@@ -11894,16 +11880,23 @@
           "high": 0.69664,
           "low": 0.69636,
           "close": 0.69663
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 0.69661,
+          "high": 0.69694,
+          "low": 0.69661,
+          "close": 0.69692
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 0.69689,
+          "high": 0.69715,
+          "low": 0.69688,
+          "close": 0.69701
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 0.7016,
-          "high": 0.7016,
-          "low": 0.70096,
-          "close": 0.7011
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 0.70112,
@@ -12736,6 +12729,13 @@
           "high": 0.69711,
           "low": 0.69672,
           "close": 0.69673
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 0.69675,
+          "high": 0.69694,
+          "low": 0.69632,
+          "close": 0.69692
         }
       ],
       "last_h4": [
@@ -13164,38 +13164,24 @@
     "USD/CAD": {
       "symbol": "USD/CAD",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:29",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
-        "filtered_unfinished_m15_count": 1,
+        "filtered_unfinished_m15_count": 0,
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
-        "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "valid_completed_m15_count": 1424,
+        "first_valid_m15_utc": "2026-09-15 05:15:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 1.42665,
+      "latest_completed_m15_close": 1.42618,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 1.4228,
-          "high": 1.42285,
-          "low": 1.42251,
-          "close": 1.42268
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 1.42272,
-          "high": 1.42311,
-          "low": 1.42272,
-          "close": 1.423
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 1.42296,
@@ -14525,16 +14511,23 @@
           "high": 1.42686,
           "low": 1.42656,
           "close": 1.42665
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 1.42666,
+          "high": 1.42671,
+          "low": 1.42655,
+          "close": 1.42656
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 1.42657,
+          "high": 1.42669,
+          "low": 1.42616,
+          "close": 1.42618
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 1.41777,
-          "high": 1.41848,
-          "low": 1.41775,
-          "close": 1.41822
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 1.41824,
@@ -15367,6 +15360,13 @@
           "high": 1.42647,
           "low": 1.42582,
           "close": 1.42645
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 1.42642,
+          "high": 1.42688,
+          "low": 1.42641,
+          "close": 1.42656
         }
       ],
       "last_h4": [
@@ -15795,7 +15795,7 @@
     "NZD/USD": {
       "symbol": "NZD/USD",
       "data_status": "OK",
-      "fetched_at_utc": "2026-10-06 00:59:52",
+      "fetched_at_utc": "2026-10-06 01:16:29",
       "coverage": {
         "raw_m15_count": 2000,
         "filtered_closed_market_m15_count": 576,
@@ -15803,30 +15803,16 @@
         "filtered_invalid_ohlc_count": 0,
         "duplicate_m15_count": 0,
         "valid_completed_m15_count": 1423,
-        "first_valid_m15_utc": "2026-09-15 05:00:00",
-        "last_completed_m15_utc": "2026-10-06 00:30:00",
+        "first_valid_m15_utc": "2026-09-15 05:30:00",
+        "last_completed_m15_utc": "2026-10-06 01:00:00",
         "available_h1_count": 355,
         "available_h4_count": 85,
         "returned_m15_count": 192,
         "returned_h1_count": 120,
         "returned_h4_count": 60
       },
-      "latest_completed_m15_close": 0.55983,
+      "latest_completed_m15_close": 0.56027,
       "last_m15": [
-        {
-          "datetime_utc": "2026-10-02 00:45:00",
-          "open": 0.55917,
-          "high": 0.55945,
-          "low": 0.55907,
-          "close": 0.55931
-        },
-        {
-          "datetime_utc": "2026-10-02 01:00:00",
-          "open": 0.55929,
-          "high": 0.55933,
-          "low": 0.559,
-          "close": 0.55922
-        },
         {
           "datetime_utc": "2026-10-02 01:15:00",
           "open": 0.55923,
@@ -17156,16 +17142,23 @@
           "high": 0.55985,
           "low": 0.55951,
           "close": 0.55983
+        },
+        {
+          "datetime_utc": "2026-10-06 00:45:00",
+          "open": 0.55979,
+          "high": 0.56014,
+          "low": 0.55979,
+          "close": 0.56006
+        },
+        {
+          "datetime_utc": "2026-10-06 01:00:00",
+          "open": 0.56003,
+          "high": 0.56028,
+          "low": 0.56003,
+          "close": 0.56027
         }
       ],
       "last_h1": [
-        {
-          "datetime_utc": "2026-09-29 00:00:00",
-          "open": 0.56624,
-          "high": 0.56629,
-          "low": 0.5657,
-          "close": 0.56588
-        },
         {
           "datetime_utc": "2026-09-29 01:00:00",
           "open": 0.56595,
@@ -17998,6 +17991,13 @@
           "high": 0.5603,
           "low": 0.55978,
           "close": 0.55979
+        },
+        {
+          "datetime_utc": "2026-10-06 00:00:00",
+          "open": 0.5598,
+          "high": 0.56014,
+          "low": 0.55942,
+          "close": 0.56006
         }
       ],
       "last_h4": [
